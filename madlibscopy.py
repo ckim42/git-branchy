@@ -1,3 +1,5 @@
+# Took code from my Mad Libs assignment from CS 1.1
+
 def getPronounInput():
     return input("Enter a pronoun: ")
 
